@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weather-mobile/static/css/main.28174285.css",
+    "main.js": "/weather-mobile/static/js/main.7531b9b7.js",
+    "static/js/453.97127cc3.chunk.js": "/weather-mobile/static/js/453.97127cc3.chunk.js",
+    "static/media/sky1.jpg": "/weather-mobile/static/media/sky1.af883f17868060f1b2a8.jpg",
+    "static/media/logo.svg": "/weather-mobile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weather-mobile/index.html",
+    "main.28174285.css.map": "/weather-mobile/static/css/main.28174285.css.map",
+    "main.7531b9b7.js.map": "/weather-mobile/static/js/main.7531b9b7.js.map",
+    "453.97127cc3.chunk.js.map": "/weather-mobile/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28174285.css",
+    "static/js/main.7531b9b7.js"
+  ]
+}
