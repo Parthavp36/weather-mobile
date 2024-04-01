@@ -1,0 +1,88 @@
+@media screen and (max-width:767px) {
+.container
+{
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width:100vw;
+    background-image: url('../../public/sky1.jpg');
+    background-size: cover;
+}
+.container nav
+{
+    height: 40px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+} 
+.container nav input{
+  height: 30px;
+  width:60%;
+  margin-top: 50px;
+  color: white;
+  background-color: rgba(255,255 , 255, 0);
+  outline: none;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.container nav input ::placeholder
+{
+  color: white;
+}
+.condition
+{
+  height: 20vh;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.condition p{
+  font-size: 30px;
+  color: white;
+}
+.bottom
+{
+  height: 20vh;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-top: 2px;
+}
+.bottom div
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin:0;
+  padding: 0;
+  height: auto;
+}
+.bottom div p
+{
+  font-size: 17px;
+  color: white;
+  display: flex;
+  margin: 0%;
+  padding: 0%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.bottom div span
+{
+  margin-right: 20px;
+  font-size: 20px;
+  color: white;
+}
+}
